@@ -12,7 +12,7 @@ const Navbar = () => {
                     <Link href={"/sign-in"}>Login</Link>
                 </Button>
                 <Button size={"sm"} asChild>
-                    <Link href={"/sign-in"}>Get Taskify for FREE</Link>
+                    <Link href={"/sign-up"}>Get Taskify for FREE</Link>
                 </Button>
                </div>
             </div>
